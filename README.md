@@ -5,6 +5,6 @@ A TamperMonkey script show imdb.com or douban.com rating in real time
 TODO LIST
 
 - [x] ~~Support plain text douban hyperlink~~
-- [ ] Support anchor(<a>) douban hyperlink
+- [ ] Support anchor `<a>` douban hyperlink
 - [ ] Support plain text imdb hyperlink
-- [ ] Support anchor(<a>) imdb hyperlink
+- [ ] Support anchor `<a>` imdb hyperlink
