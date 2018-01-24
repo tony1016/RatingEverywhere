@@ -8,7 +8,9 @@ A TamperMonkey script show imdb.com or douban.com rating in real time.U can inst
 TODO LIST
 
 - [x] ~~Support plain text douban hyperlink~~
+- [x] ~~Support douban click~~
 - [ ] Support anchor `<a>` douban hyperlink
 - [x] ~~Support plain text imdb hyperlink~~
+- [x] ~~Support imdb click~~
 - [ ] Support anchor `<a>` imdb hyperlink
 
